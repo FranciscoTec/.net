@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "26qzSfvZJiiRf4OZ/c1Pdw+dJHINQQ2rffImAmJNr7LlpZwcxMJTnKNRrYYK4NtujxcbXoFF7/ker6/n3D3MbA==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\GitHub\\.net\\prototipo\\04.0_Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paco\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Paco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Paco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Paco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\.net\adapter\bin\Debug\net7.0\Adapter.exe
+D:\Documentos\GitHub\.net\adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\Documentos\GitHub\.net\adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\Documentos\GitHub\.net\adapter\bin\Debug\net7.0\Adapter.dll
+D:\Documentos\GitHub\.net\adapter\bin\Debug\net7.0\Adapter.pdb
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.dll
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.pdb
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\Documentos\GitHub\.net\adapter\obj\Debug\net7.0\ref\Adapter.dll

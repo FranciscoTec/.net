@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\.net\prototipo\bin\Debug\net6.0\04.0_Prototype.exe
+D:\Documentos\GitHub\.net\prototipo\bin\Debug\net6.0\04.0_Prototype.deps.json
+D:\Documentos\GitHub\.net\prototipo\bin\Debug\net6.0\04.0_Prototype.runtimeconfig.json
+D:\Documentos\GitHub\.net\prototipo\bin\Debug\net6.0\04.0_Prototype.dll
+D:\Documentos\GitHub\.net\prototipo\bin\Debug\net6.0\04.0_Prototype.pdb
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.AssemblyInfo.cs
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.dll
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\refint\04.0_Prototype.dll
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.pdb
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\04.0_Prototype.genruntimeconfig.cache
+D:\Documentos\GitHub\.net\prototipo\obj\Debug\net6.0\ref\04.0_Prototype.dll

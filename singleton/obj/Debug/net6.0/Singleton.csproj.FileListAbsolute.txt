@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\.net\singleton\bin\Debug\net6.0\Singleton.exe
+D:\Documentos\GitHub\.net\singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\Documentos\GitHub\.net\singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\Documentos\GitHub\.net\singleton\bin\Debug\net6.0\Singleton.dll
+D:\Documentos\GitHub\.net\singleton\bin\Debug\net6.0\Singleton.pdb
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.dll
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.pdb
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\Documentos\GitHub\.net\singleton\obj\Debug\net6.0\ref\Singleton.dll
