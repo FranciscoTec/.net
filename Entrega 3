@@ -1,0 +1,23 @@
+Singleton
+
+Singleton nos permite crear una instancia de alguna clase sin embargo esta unica instancia es unica y no puede crearse otra
+
+Abstract Factory
+
+Permite la creacion de objetos genericos para que se vuelvan especificos mas tarde 
+
+Builder
+
+Similar de cierta forma al builder ya permite crear un objeto complejo del cual se pueden crear objetos mas sencillos
+
+Prototype
+
+Este diseño permite clonar objetos de manera que no dependedas de las clase de la que los clonas
+
+Adapter 
+
+Hace posible adaptar adaptar interfaces de una clase A a una clase B
+
+Conclusion 
+
+En esta clase revisamos patrones de diseño que facilitan el manejo de datos al momento de escribir codigo asi como la importancia de las buenas practicas ya que aun si se esta usando un patron de siseño correcto para el problema si no se implementa adecaudamente y con buenas practicaas terminaremos con un codigo inestable e ineficiennte 
